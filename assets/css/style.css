@@ -1,0 +1,32 @@
+body {
+    background:#d5f4e6;
+    color: #618685;
+    text-align: center;
+    margin: 40px;
+    scroll-padding: auto;
+}
+
+html {
+    background:#d5f4e6;
+    color: #618685;
+    text-align: center;
+    margin: 40px;
+    scroll-padding: auto;
+}
+
+.jumbotron {
+    background:#d5f4e6;
+    color: #618685;
+    text-align: center;
+    margin: 40px;
+    scroll-padding: auto;
+}
+
+.btn-group-lg {
+    border-radius: 6px;
+}
+
+.btn-group-md {
+    border-radius: 6px; 
+}
+
